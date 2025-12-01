@@ -36,13 +36,5 @@ DevOps & Cloud Engineer experienced in designing, automating and maintaining sca
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadikram01&theme=dark&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadikram01&layout=compact&theme=dark" width="40%" />
-</p>
-
----
-
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohammad-ikram)
