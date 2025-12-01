@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-DevOps & Cloud Engineer with hands-on experience in designing, automating and maintaining scalable infrastructure. Strong focus on CI/CD pipelines, cloud deployment, containers and infrastructure as code.
+DevOps & Cloud Engineer experienced in designing, automating and maintaining scalable cloud infrastructure. Focus on CI/CD, cloud deployment, automation, and infrastructure as code.
 
 ---
 
@@ -38,23 +38,11 @@ DevOps & Cloud Engineer with hands-on experience in designing, automating and ma
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadikram01&show_icons=true&theme=dark" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadikram01&layout=compact&theme=dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadikram01&theme=dark&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadikram01&layout=compact&theme=dark" width="40%" />
 </p>
 
 ---
 
-## Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadikram01&theme=dark" />
-</p>
-
----
-
-## Contribution Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadikram01&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## Connect With Me
+## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohammad-ikram)
