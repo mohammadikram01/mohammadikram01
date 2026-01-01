@@ -1,13 +1,22 @@
-Hi, I’m Mohammad Ikram
+<div align="center">
 
-DevOps & Cloud Engineer | AWS | Docker | Kubernetes | Terraform
+Hi, I'm Mohammad Ikram
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohammadikram01&label=Profile%20Views&color=0e75b6&style=flat)
+**DevOps & Cloud Engineer**  
+AWS | Docker | Kubernetes | Terraform
 
----
+<img src="https://komarev.com/ghpvc/?username=mohammadikram01&label=Profile%20Views&color=0e75b6&style=flat" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadikram01&show_icons=true&theme=dark&count_private=true)
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohammadikram01&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=mohammadikram01&show_icons=true&theme=dark&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadikram01&layout=compact&theme=dark)
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=mohammadikram01&theme=dark" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadikram01&layout=compact&theme=dark" />
+
+</div>
